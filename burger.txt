@@ -2,3 +2,4 @@ steak
 mayo
 tomate
 salade
+cheddar
